@@ -1,0 +1,2 @@
+webpackJsonp([7],{aDhh:function(e,t){},"l+tx":function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=a("qvKF"),o=a("qKac"),r={components:{Head:n.a,Foot:o.a}},s={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("Head",{attrs:{bol:"订单列表",headback:"false",headto:"true"}}),this._v(" "),t("Foot")],1)},staticRenderFns:[]};var c=a("C7Lr")(r,s,!1,function(e){a("aDhh")},null,null);t.default=c.exports}});
+//# sourceMappingURL=7.ec4da049bf5c6f13796e.js.map
