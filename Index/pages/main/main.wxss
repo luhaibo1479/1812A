@@ -1,0 +1,72 @@
+/* pages/main/main.wxss */
+.banner {
+  width: 100%;
+  height: 30%;
+}
+.img1 {
+  width: 100%;
+  height: 360rpx;
+}
+.main {
+  width: 90%;
+  height: 650rpx;
+  box-shadow: 0 0 10rpx #999;
+  background: white;
+  position:absolute;
+  left: 5%;
+  top: 28%;
+}
+.content {
+  width: 60%;
+  height: 100%;
+  margin: 0 auto;
+}
+.con1 {
+  width: 100%;
+  padding: 20rpx 0;
+  font-size: 24rpx;
+  display: flex;
+}
+.img2 {
+width: 40rpx;
+height: 40rpx;
+}
+.con1-text {
+ line-height: 40rpx; 
+ margin-left: 10rpx;
+}
+.con2 {
+  width: 100%;
+  height: 90rpx;
+  display: flex;
+  margin-bottom: 20rpx;
+}
+.con2-dian {
+width: 10%;
+height: 90rpx;
+}
+.dian {
+  width: 6rpx;
+  height: 6rpx;
+  border-radius: 50%;
+  background: grey;
+  margin: 0 auto;
+  margin-top: 10rpx;
+}
+.dian1 {
+  width: 8rpx;
+  height: 8rpx;
+  border-radius: 50%;
+  background: grey;
+  margin: 0 auto;
+  margin-top: 8rpx;
+}
+.con2-tet {
+  width: 80%;
+  height: 90rpx;
+  margin-left: 10%;
+  font-size: 24rpx;
+}
+.tet {
+  padding: 5rpx 0; 
+}

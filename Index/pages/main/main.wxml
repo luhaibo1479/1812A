@@ -1,0 +1,67 @@
+<!--pages/main/main.wxml-->
+<view class="banner"><image class="img1" src="../Image/timg.jpg"></image></view>  
+<view class="main">
+<view class="content"> 
+<view class="con1">
+<image class="img2" src="../Image/box.png"></image>
+<view class="con1-text">工作经历</view>
+</view>
+<view class="con2">
+<view class="con2-dian">
+<view class="dian"></view>
+<view class="dian1"></view>
+<view class="dian"></view>
+<view class="dian1"></view>
+<view class="dian"></view>
+</view>
+<view class="con2-tet">
+<view class="tet">2018.07-2019.10</view>
+<view class="tet">杭州阿里巴巴公司</view>
+</view>
+</view>
+<view class="con2">
+<view class="con2-dian">
+<view class="dian"></view>
+<view class="dian1"></view>
+<view class="dian"></view>
+<view class="dian1"></view>
+<view class="dian"></view>
+</view>
+<view class="con2-tet">
+<view class="tet">2017.09-2018.07</view>
+<view class="tet">深圳腾讯公司</view>
+</view>
+</view>
+<view class="con2">
+<view class="con2-dian">
+<view class="dian"></view>
+<view class="dian1"></view>
+<view class="dian"></view>
+<view class="dian1"></view>
+<view class="dian"></view>
+</view>
+<view class="con2-tet">
+<view class="tet">2016.09-2017.08</view>
+<view class="tet">bilibili网</view>
+</view>
+</view>
+<view class="con1">
+<image class="img2" src="../Image/jiaoyu.png"></image>
+<view class="con1-text">教育经历</view>
+</view>
+<view class="con2">
+<view class="con2-dian">
+<view class="dian"></view>
+<view class="dian1"></view>
+<view class="dian"></view>
+<view class="dian1"></view>
+<view class="dian"></view>
+</view>
+<view class="con2-tet">
+<view class="tet">2012.09-2016.07</view>
+<view class="tet">清华大学计算机学院</view>
+</view>
+</view>
+</view>
+</view>
+

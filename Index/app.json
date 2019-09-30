@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/home/home",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "陆海波的个人简历",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "selectedIconPath": "pages/Image/business1.png",
+        "iconPath": "pages/Image/business.png",
+        "pagePath": "pages/index/index",
+        "text": "名片"
+      },
+      {
+        "selectedIconPath": "pages/Image/classification.png",
+        "iconPath": "pages/Image/classification1.png",
+        "pagePath": "pages/home/home",
+        "text": "项目"
+      },
+      {
+        "selectedIconPath": "pages/Image/resume1.png",
+        "iconPath": "pages/Image/resume.png",
+        "pagePath": "pages/main/main",
+        "text": "简历"
+      }
+    ]
+  }
+}
