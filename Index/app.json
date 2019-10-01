@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/banner/banner",
     "pages/main/main",
     "pages/home/home",
     "pages/index/index",
@@ -18,7 +19,7 @@
       {
         "selectedIconPath": "pages/Image/business1.png",
         "iconPath": "pages/Image/business.png",
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/banner/banner",
         "text": "名片"
       },
       {

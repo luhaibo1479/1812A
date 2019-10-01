@@ -1,0 +1,38 @@
+<!--pages/banner/banner.wxml-->
+<view class="bgimg">
+<image class="bgimg1"  src="../Image/timg.jpg"></image>
+</view> 
+<view class="content">
+<view class="username">陆海波</view>
+<view class="tel">
+<view class="tel1">手机</view>
+<view class="tel2">18235953256</view>
+<view><button class="btn1" bindtap="gettel">拨打</button></view> 
+</view>
+<view class="tel">
+<view class="tel1">邮箱</view>
+<view class="tel2">465091397@qq.com</view>
+<view><button class="btn1" bindtap="getcopy">复制</button></view> 
+</view>
+<view class="tel">
+<view class="tel1">职业</view>
+<view class="tel2">Web前端开发工程师</view>
+<view><button class="btn1" bindtap="getcopy1">复制</button></view> 
+</view>
+</view>
+<view class="list">
+<view class="nav">
+<view class="nav1">
+<view class="telimg"><image class="telimg1" src="../Image/haibao.png"></image></view>
+<text class="teltitle">生成海报</text>
+</view>
+<view class="nav1">
+<view class="telimg" bindtap="getpush"><image class="telimg1" src="../Image/tell.png"></image></view>
+<text class="teltitle">保存电话</text>
+</view>
+<view class="nav1">
+<button class="telimg" bindtap="getpp" open-type="share"><image class="telimg1 telimg2" src="../Image/zhuanfa.png"></image></button>
+<text class="teltitle">分享好友</text>
+</view>
+</view>
+</view>
