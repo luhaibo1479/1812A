@@ -7,17 +7,6 @@ Page({
   data: {
 
   },
-  btn1:function(){
-    wx.makePhoneCall({
-      phoneNumber: '18235953256',
-      success:function(){
-        console.log('拨打成功')
-      },
-      fail:function(){
-        console.log('拨打失败')
-      }
-    })
-  },
   /**
    * 生命周期函数--监听页面加载
    */

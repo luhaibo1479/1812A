@@ -1,3 +1,2 @@
 <!--pages/home/home.wxml-->
-<text>呼叫用户</text>
-<button bindtap="btn1">点击呼叫用户</button>
+
